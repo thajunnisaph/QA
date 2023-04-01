@@ -1,0 +1,16 @@
+.questions p {
+  display: inline-flex;
+}
+.answers {
+  margin: 20px;
+  border: 1px solid grey;
+  box-shadow: 0 0 10px rgba(155, 147, 147, 0.5);
+  border-radius: 5px;
+}
+.questions {
+  margin: 20px 20px;
+}
+.answers h2 {
+  text-align: center;
+  margin-top: 6px;
+}
